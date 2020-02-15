@@ -8,4 +8,7 @@ package module1;
  * @Version 1.0
  */
 public class A {
+    public void funA(){
+        System.out.println("关闭#3issue");
+    }
 }
