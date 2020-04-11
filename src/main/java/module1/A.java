@@ -11,4 +11,6 @@ public class A {
     public void funA(){
         System.out.println("关闭#3issue");
     }
+
+    public void funB() {}
 }
