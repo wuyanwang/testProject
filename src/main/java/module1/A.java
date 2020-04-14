@@ -12,6 +12,7 @@ public class A {
     private int b;
     private int c;
     private int d;
+    private int e;
     public void funA(){
         System.out.println("关闭#3issue");
     }

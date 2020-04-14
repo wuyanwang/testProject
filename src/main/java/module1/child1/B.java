@@ -8,5 +8,6 @@ package module1.child1;
  * @Version 1.0
  */
 public class B {
+    private int a;
     public void fun() {}
 }
