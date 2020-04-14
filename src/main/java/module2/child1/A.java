@@ -10,4 +10,5 @@ package module2.child1;
 public class A {
     private int a;
     private int b;
+    private int c;
 }

@@ -10,4 +10,5 @@ package module2;
 public class E {
     private int b;
     private int a;
+    private int c;
 }
