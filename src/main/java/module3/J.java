@@ -11,6 +11,5 @@ public class J {
     private int a;
 
     private int b;
-
     private int c;
 }
