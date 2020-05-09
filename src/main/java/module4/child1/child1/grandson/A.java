@@ -8,4 +8,5 @@ package module4.child1.child1.grandson;
  * @Version 1.0
  */
 public class A {
+    private int a;
 }
