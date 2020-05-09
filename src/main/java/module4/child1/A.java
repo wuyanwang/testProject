@@ -9,4 +9,5 @@ package module4.child1;
  */
 public class A {
     private int a;
+
 }
