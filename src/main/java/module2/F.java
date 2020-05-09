@@ -11,4 +11,5 @@ public class F {
     private int a;
 
     private int b;
+
 }
