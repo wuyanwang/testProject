@@ -8,5 +8,5 @@ package module3;
  * @Version 1.0
  */
 public class L {
-
+    private int a;
 }

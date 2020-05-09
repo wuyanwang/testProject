@@ -8,4 +8,5 @@ package module2;
  * @Version 1.0
  */
 public class G {
+    private int a;
 }
