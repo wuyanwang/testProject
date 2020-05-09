@@ -9,5 +9,6 @@ package module1;
  */
 public class B {
     private int a;
+
     private int b;
 }
