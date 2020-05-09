@@ -12,4 +12,5 @@ public class A {
     private int b;
     private int c;
     private int d;
+    private int e;
 }
