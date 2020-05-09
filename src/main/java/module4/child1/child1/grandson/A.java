@@ -9,5 +9,6 @@ package module4.child1.child1.grandson;
  */
 public class A {
     private int a;
+
     private int b;
 }

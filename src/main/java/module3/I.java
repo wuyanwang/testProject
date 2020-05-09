@@ -12,5 +12,4 @@ public class I {
 
     private int b;
 
-
 }
