@@ -8,4 +8,5 @@ package module3;
  * @Version 1.0
  */
 public class J {
+    private int a;
 }

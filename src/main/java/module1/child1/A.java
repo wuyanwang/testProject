@@ -10,5 +10,6 @@ package module1.child1;
 public class A {
     private int a;
     private int b;
+    private int c;
     public void fun() {}
 }
